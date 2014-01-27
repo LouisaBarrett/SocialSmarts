@@ -1,5 +1,26 @@
-== Social Smarts
+## Social Smarts
 
 Have you ever wished that you had a better way to manage your social media presence?
 
-Social Smarts makes it possible for you to mark the most important tweets to you, and take action on them.
+Social Smarts is a gSchool project built by Louisa Barrett, George Hudson, Will Mitchell, Antony Siegert, and Nikhil Taneja over three weeks. This app gives users a tool to track and sort their most important incoming tweets, and take action on them.
+
+##Primary individual role
+
+Design and build the front end from scratch, emphasising a simple and straightforward experience for the user.
+
+###Team Learning goals
+
+Learning goals of this project included:
+
+- Consuming data from multiple third-party APIs
+- Building and using a wrapper gem to maintain separation between our application and third-party APIs 
+- Coordinating with project stakeholders (clients) to produce quality code and product with an emphasis on performance, UI, and overall user experience
+- Use of TDD to drive all layers of Rails development
+- Use of background workers
+- Deployment on a VPS instance built from the ground up
+
+###Screenshots
+
+Login Page
+
+![Login](app/assets/images/login_page.png)
