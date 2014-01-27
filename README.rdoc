@@ -6,7 +6,7 @@ Social Smarts is a gSchool project built by Louisa Barrett, George Hudson, Will 
 
 ==Primary individual role
 
-Design and build the front end from scratch, emphasising a simple and straightforward experience for the user.
+Design and build the front end from scratch, emphasizing a simple and straightforward experience for the user.
 
 ==Team Learning goals
 
